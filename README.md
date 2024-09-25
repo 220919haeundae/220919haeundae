@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+``` Java
+public void main(String args[]) {
+  public class leejoseph{
+
+}
+}
+```
+
 <!--
 **220919haeundae/220919haeundae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
